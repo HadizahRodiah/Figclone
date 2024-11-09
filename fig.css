@@ -1,0 +1,158 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@400;500;700;900&display=swap');
+
+body{
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: inter;
+
+}
+
+.container{
+    padding:40px;
+    background-color: white;
+    max-width: 430px;
+    top: -175px;
+    left: -280px;
+    gap: 0px;
+    opacity: 0px; 
+    justify-content: center;
+    max-height:932px ;
+}
+img{
+    width:350px;
+height: 425px;
+top: 49px;
+left: 40px;
+gap: 0px;
+opacity: 0px;
+
+}
+.contain1{
+    justify-self: left;
+    background-color: white;
+    width: Fixed (333px)px;
+height: Hug (94px)px;
+top: 511px;
+left: 40px;
+gap: 15px;
+opacity: 0px;
+}
+.contain1 h1{
+    width: 333px;
+height: 29px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.contain1 p{
+width: 333px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 25px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.box{
+    display: flex;
+    flex-direction: row;
+ width: Fill (307px)px;
+height: Hug (31px)px;
+gap: 13px;
+opacity: 0px;
+
+}
+#box1{
+ background: #A6023D;
+    width: 51px;
+height: 31px;
+gap: 0px;
+opacity: 0px;
+
+}
+#box2{
+    background: #000000;
+    width: 51px;
+height: 31px;
+gap: 0px;
+opacity: 0px;
+
+}
+#box3{
+    background: #989898;
+    width: 51px;
+height: 31px;
+gap: 0px;
+opacity: 0px;
+
+}
+#box4{
+    background: #2707DA;
+width: 51px;
+height: 31px;
+gap: 0px;
+opacity: 0px;
+
+}
+#box5{
+    background: #0DF815;
+    width: 51px;
+height: 31px;
+gap: 0px;
+opacity: 0px;
+
+}
+.contain3{
+    
+    width: Fixed (40px)px;
+height: Hug (53px)px;
+top: 725px;
+left: 39px;
+gap: 3px;
+opacity: 0px;
+
+}
+.contain3 p{
+    width: 40px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+
+}
+.button{
+    width: Fixed (350px)px;
+height: Fixed (44px)px;
+top: 820px;
+left: 35px;
+padding: 7px 114px 7px 114px;
+gap: 10px;
+opacity: 0px;
+ background-color: #2D57AF;
+}
+.button p {
+    width: Hug (114px)px;
+height: Hug (25px)px;
+gap: 12px;
+opacity: 0px;
+text-align: center;
+
+}
